@@ -1,0 +1,14 @@
+{
+"created_at":Sat Jun 1 10:01:00 2019,
+"text":"test 1", 
+"id_str": "101010",
+"user":{
+  "name":"john",
+  "id":100,
+  "screen_name":"user john",
+   "location":"patras",
+   "url":"www.twitter.com",
+   "description":"events"
+  }
+}
+
